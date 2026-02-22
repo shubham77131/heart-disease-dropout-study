@@ -1,0 +1,19 @@
+## Libraries required
+
+# For data handling
+
+numpy
+pandas
+
+# For plotting
+
+matplotlib
+seaborn
+
+# For data scaling and split
+
+sklearn
+
+# For DL models
+
+tensorflow
