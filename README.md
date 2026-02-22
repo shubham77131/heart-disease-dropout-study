@@ -10,6 +10,12 @@ I built two Sequential Neural Networks to observe how regularization affects the
 - **Model 1 (Regularized):** Includes Dropout layers (20% and 10%) to reduce dependency on specific neurons.
 - **Model 2 (Baseline):** A standard fully connected network without dropout.
 
+
+| Accuracy Without Dropout | Accuracy With Dropout |
+| :---: | :---: |
+| ![](/figs/accuracy_without_dropout.png) | ![](/figs/accuracy_with_dropout.png) |
+
+
 ## Key Features
 - **Data Scaling:** Used `StandardScaler` to normalize feature ranges.
 - **Exploratory Analysis:** Included a Correlation Heatmap to understand feature relationships.
